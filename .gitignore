@@ -1,4 +1,6 @@
 .bundle
+.redcar
+.redcar/*
 db/*.sqlite3
 log/*.log
 *.log
@@ -9,3 +11,4 @@ doc/app
 *.swp
 *~
 .DS_Store
+
